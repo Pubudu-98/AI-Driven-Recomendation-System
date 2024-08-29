@@ -1,0 +1,666 @@
+{
+"Male-fullbody-loss_weight-Gym":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio on a stationary bike or treadmill",
+    "Workout":["Barbell Squats - 3 sets of 12 reps",
+                "Dumbbell Lunges - 3 sets of 12 reps",
+                "Barbell Bench Press - 3 sets of 12 reps",
+                "Seated Cable Rows - 3 sets of 12 reps",
+                "Lat Pulldowns - 3 sets of 12 reps",
+                "Dumbbell Shoulder Press - 3 sets of 12 reps",
+                "Planks - 3 sets, holding for 30-60 seconds each",
+                "Crunches - 3 sets of 12 reps"
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio on a stationary bike or treadmill",
+        "Stretching of all major muscle groups"
+    ]
+},
+
+"Male-fullbody-loss_weight-Home":{
+    "Workout Location":"Home",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio (such as jumping jacks, jogging in place, or high knees",
+    "Workout":["Perform each exercise for 3 sets of 12-15 repetitions with 1 minute of rest between sets",
+                "Bodyweight Squats",
+                "Push-ups (knee push-ups if necessary)",
+                "Glute Bridges",
+                "Dips (use a sturdy chair or bench)",
+                "Reverse Lunges (6-8 reps per leg)",
+                "Plank (hold for 30 seconds - 1 minute)"
+                
+    ],
+    "Cool Down":[
+        "Stretching of all major muscle groups"
+    ]
+},
+
+"Male-fullbody-build_muscle-Gym":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio (e.g., treadmill, stationary bike) to get your heart rate up and prepare your muscles.",
+    "Workout":["Perform 3-4 sets of 8-10 reps for each exercise.",
+
+                "Barbell Squats: Target your quadriceps, hamstrings, glutes, and core.",
+                "Bench Press: Target your chest, shoulders, and triceps.",
+                "Bent-over Rows: Target your back and biceps.",
+                "Shoulder Press (Dumbbells or Barbell): Target your shoulders.",
+                "Pull-ups or Lat Pulldowns: Target your back and biceps.",
+                "Deadlifts: Target your back, hamstrings, and glutes"
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio on a stationary bike or treadmill",
+        "Stretching of all major muscle groups"
+    ]
+},
+
+"Male-fullbody-build_muscle-Home":{
+    "Workout Location":"Home",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"Leg swings: 2 sets of 10 reps per leg",
+    "Workout":[
+            "Squats: 4 sets of 12 reps",
+            "Lunges: 3 sets of 10 reps per leg",
+            "Decline Push-Ups - 3 sets of 12 reps",
+            "Incline Push-Ups - 3 sets of 12 reps",
+            "Vertical Push-Ups - 3 sets of 12 reps",
+            "Leg press: 3 sets of 10 reps",
+            "Leg extensions: 3 sets of 10 reps",
+            "Calf raises: 3 sets of 15 reps"
+    ],
+    "Cool Down":[
+        "Stretching of all major muscle groups"
+    ]
+},
+
+"Male-arm-build_muscle-Gym":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio (treadmill, stationary bike, or jump rope) followed by dynamic stretches for the arms and shoulders.",
+    "Workout":["Perform 3-4 sets of each exercise with 8-12 repetitions per set.",
+
+                "Bench Press: Targets chest and triceps, which contribute to overall arm strength.",
+                "Barbell Bicep Curls: Target the biceps effectively.",
+                "Overhead Press: Focuses on the shoulders and engages the triceps.",
+                "Pull-ups/Chin-ups: Great for building overall upper body strength, including the biceps."
+    ],
+    "Cool Down":[
+        "Finish with static stretches for the arms, shoulders, and chest to improve flexibility and aid in recovery."
+    ]
+},
+
+"Male-arm-build_muscle-Home":{
+    "Workout Location":"Home",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio (jumping jacks, jogging in place) followed by dynamic stretches for the arms and shoulders.",
+    "Workout":["Push-ups",
+                "Diamond Push-ups",
+                "Inverted Rows (using a sturdy table or horizontal bar)",
+                "Decline Push-Ups - 3 sets of 12 reps",
+                "Resistance Band Hammer Curls",
+                "Vertical Push-Ups - 3 sets of 12 reps"
+    ],
+    "Cool Down":[
+        "Triceps stretches",
+        "Biceps stretches",
+        "Shoulder stretches",
+        "Chest opener stretch"
+    ]
+},
+
+"Male-chest-build_muscle-Gym":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio (treadmill, stationary bike, or jump rope) followed by dynamic stretches for the chest, shoulders, and arms.",
+    "Workout":[
+        "Perform 3-4 sets of each exercise with 8-12 repetitions per set.",
+        "Bench Press: The king of chest exercises. You can do flat bench press, incline bench press, and decline bench press to target different parts of the chest.",
+        "Dumbbell Bench Press: Offers better range of motion and engages stabilizer muscles.",
+        "Push-ups: An effective bodyweight exercise that targets the chest and can be done with various hand positions for variation."
+    ],
+    "Cool Down":[
+        "Finish with static stretches for the chest, shoulders, and arms to improve flexibility and aid in recovery."
+    ]
+},
+"Male-chest-build_muscle-Home":{
+    "Workout Location":"Home",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio (jumping jacks, jogging in place) followed by dynamic stretches for the chest, shoulders, and arms.",
+    "Workout":[
+
+    "Regular Push-Ups: 3 sets of 10-15 reps.",
+    "Wide Push-Ups (hands wider than shoulders): 3 sets of 10-15 reps.",
+    "Close Grip Push-Ups (hands closer together): 3 sets of 10-15 reps.",
+    "Flat Dumbbell Press: 3 sets of 8-12 reps.",
+    "Incline Dumbbell Press (if available): 3 sets of 8-12 reps.",
+    "Decline Dumbbell Press (if available): 3 sets of 8-12 reps."
+    ],
+    "Cool Down":[
+        "Stretching of all major muscle groups"
+    ]
+},
+"Male-abs-build_muscle-Gym":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio (treadmill, stationary bike) to get your heart rate up, followed by dynamic stretches for the core and lower back.",
+    "Workout":["Barbell Squats: 3 sets of 8-10 repetitions to engage the core for stability.",
+                "Deadlifts: 3 sets of 8-10 repetitions to work the core and lower back.",
+                "3 sets of 12-15 repetitions: Attach a rope handle to the high pulley of the cable machine.",
+                "3 sets of 10-12 repetitions: Hang from a pull-up bar with your arms extended"
+    ],
+    "Cool Down":["Finish with static stretches for the core, lower back, and hip flexors."
+    ]
+},
+
+"Male-abs-build_muscle-Home":{
+    "Workout Location":"Home",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio (jumping jacks, jogging in place) to get your heart rate up and increase blood flow to the muscles.",
+    "Workout":["Standard Plank: Hold for 30-45 seconds, rest for 15 seconds. Repeat for 3 sets.",
+                "Side Plank: Hold for 20-30 seconds on each side, rest for 10 seconds. Repeat for 3 sets.",
+                "Crunches: 3 sets of 15-20 repetitions.",
+                "Reverse Crunches: 3 sets of 15-20 repetitions.",
+                "3 sets of 20 repetitions (10 each side)"
+    ],
+    "Cool Down":[
+        "Finish with static stretches for the core, lower back, and hip flexors."
+    ]
+},
+"Male-leg-build_muscle-Gym":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio on a stationary bike or treadmill",
+    "Workout":[
+        "Barbell Squats: 4 sets of 8-10 repetitions: The king of leg exercises that targets the quads, hamstrings, and glutes.",
+        "Leg Press Machine: 3 sets of 10-12 repetitions: Targets the quadriceps and glutes.",
+        "Dumbbell Lunges: 3 sets of 10-12 repetitions each leg: Great for targeting the quadriceps and improving stability.",
+        "Leg Curl Machine: 3 sets of 10-12 repetitions: Focuses on the hamstrings,",
+        "Leg Extension Machine: 3 sets of 10-12 repetitions: Isolates the quadriceps."
+    ],
+    "Cool Down":[
+        "Finish with static stretches for the legs, focusing on the quadriceps, hamstrings, and calves."
+    ]
+},
+"Male-leg-build_muscle-Home":{
+    "Workout Location":"Home",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio (jumping jacks, jogging in place) to get your heart rate up and dynamic leg stretches (lunges, leg swings) to prepare your muscles.",
+    "Workout":[
+        "Bodyweight Squats: 3 sets of 12-15 repetitions: Stand with feet shoulder-width apart and perform squats, pushing your hips back and bending your knees while keeping your chest up.",
+        "Goblet Squats (using a dumbbell): 3 sets of 10-12 repetitions: Hold a dumbbell close to your chest and perform squats.",
+        "Reverse Lunges: 3 sets of 10-12 repetitions each leg",
+        "Double-Leg Calf Raises: 3 sets of 12-15 repetitions: Stand with both feet and rise up on your toes."
+    ],
+    "Cool Down":[
+        "Finish with static stretches for the legs, focusing on the quadriceps, hamstrings, and calves."
+    ]
+},
+"Female-fullbody-loss_weight-Gym":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio (treadmill, stationary bike, or elliptical) to get your heart rate up and prepare your muscles for the workout.",
+    "Workout":["Bodyweight Squats: Targets legs and glutes.",
+                "Push-Ups: Works the chest, shoulders, and triceps. Modify with knee push-ups if needed.",
+                "Bent-Over Dumbbell Rows: Targets the back and biceps.",
+                "Dumbbell Lunges: Works legs and glutes: Perform 12-15 reps on each leg.",
+                "Dumbbell Shoulder Press: Targets shoulders.",
+                "Plank: Engages core muscles. Hold for 30-60 seconds per set.",
+                "Russian Twists: Works the obliques and core."
+    ],
+    "Cool Down":[
+        "5-10 minutes of light stretching to improve flexibility and reduce muscle soreness."
+    ]
+},
+"Female-fullbody-loss_weight-Home":{
+    "Workout Location":"Home",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio to raise your heart rate and prepare your body for exercise.",
+    "Workout":["Bodyweight Squats: Targets legs and glutes.",
+                "Push-Ups: Works the chest, shoulders, and triceps. Modify with knee push-ups if needed.",
+                "Dumbbell Rows (using water bottles or other weighted objects): Targets the back and biceps.",
+                "Lunges: Works legs and glutes. Perform 12-15 reps on each leg.",
+                "Dumbbell Shoulder Press (using water bottles or other weighted objects): Targets shoulders.",
+                "Plank: Engages core muscles. Hold for 30-60 seconds per set.",
+                "Russian Twists: Works the obliques and core."
+    ],
+    "Cool Down":[
+        " 5-10 minutes of light stretching to improve flexibility and reduce muscle soreness."
+    ]
+},
+"Female-arm-build_muscle-Gym":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio (treadmill, stationary bike) to get your heart rate up and dynamic stretches for the arms, shoulders, and upper body.",
+    "Workout":["Bench Press: Targets the chest, shoulders, and triceps. Perform 3 sets of 8-10 repetitions.",
+                "Pull-Ups or Assisted Pull-Ups: Works the back, biceps, and forearms. Perform 3 sets of 6-8 repetitions.",
+                "Overhead Shoulder Press: Focuses on the shoulders and triceps. Perform 3 sets of 8-10 repetitions.",
+                "Cable Bicep Curls: Perform 3 sets of 10-12 repetitions.",
+                "Cable Tricep Pushdowns: Perform 3 sets of 10-12 repetitions."
+    ],
+    "Cool Down":[
+        "Finish with static stretches for the arms, shoulders, and upper body."
+    ]
+},
+"Female-arm-build_muscle-Home":{
+    "Workout Location":"Home",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio",
+    "Workout":["Standard Push-Ups: Perform 3 sets of 8-10 repetitions.",
+                "Knee Push-Ups: Perform 3 sets of 8-10 repetitions.",
+                "Tricep Dips: Perform 3 sets of 8-10 repetitions."
+    ],
+    "Cool Down":[
+        "Finish with static stretches for the arms, shoulders, and upper body"
+    ]
+},
+"Female-chest-build_muscle-Gym":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio (treadmill, stationary bike)",
+    "Workout":["Barbell Bench Press: Targets the chest, shoulders, and triceps. Perform 3 sets of 8-10 repetitions.",
+                "Dumbbell Bench Press: Engages the chest and stabilizing muscles. Perform 3 sets of 8-10 repetitions.",
+                "Push-Ups: Works the chest, shoulders, and triceps. Perform 3 sets of 10-15 repetitions."
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio on a stationary bike or treadmill"
+    ]
+},
+"Female-chest-build_muscle-Home":{
+    "Workout Location":"Home",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio (jumping jacks, jogging in place)",
+    "Workout":["Standard Push-Ups: Perform 3 sets of 8-10 repetitions.",
+                "Dumbbell Chest Press: Perform 3 sets of 10-12 repetitions.",
+                "Pike Push-Ups: Perform 3 sets of 8-10 repetitions."
+    ],
+    "Cool Down":[
+        "Finish with static stretches for the chest, shoulders, and upper body."
+    ]
+},
+"Female-abs-build_muscle-Gym":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio on a stationary bike or treadmill",
+    "Workout":["Barbell Squats - 3 sets of 12 reps",
+                "Dumbbell Lunges - 3 sets of 12 reps",
+                "Barbell Bench Press - 3 sets of 12 reps",
+                "Seated Cable Rows - 3 sets of 12 reps"
+    ],
+    "Cool Down":[
+        "Stretching of all major muscle groups"
+    ]
+},
+"Female-abs-build_muscle-Home":{
+    "Workout Location":"Home",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio (jumping jacks, jogging in place) ",
+    "Workout":["Standard Plank: Hold for 30-45 seconds, rest for 15 seconds. Repeat for 3 sets.",
+                "Side Plank: Hold for 20-30 seconds on each side, rest for 10 seconds. Repeat for 3 sets.",
+                "Standard Crunches: Perform 3 sets of 15-20 repetitions.",
+                "Reverse Crunches: Lie on your back and lift your legs towards your chest, engaging the lower abs. Perform 3 sets of 15-20 repetitions."
+    ],
+    "Cool Down":[
+        "Finish with static stretches for the core, lower back, and hip flexors."
+    ]
+},
+"Female-leg-build_muscle-Gym":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio (treadmill, stationary bike) to get your heart rate up and dynamic stretches for the legs",
+    "Workout":["Barbell Squats: Targets the quadriceps, hamstrings, and glutes. Perform 3 sets of 8-10 repetitions.",
+                "Leg Press Machine: Focuses on the quadriceps and glutes. Perform 3 sets of 10-12 repetitions.",
+                "Deadlifts: Works the hamstrings and lower back. Perform 3 sets of 8-10 repetitions.",
+                "Leg Extensions: Targets the quadriceps. Perform 3 sets of 10-12 repetitions.",
+                "Leg Curls: Works the hamstrings. Perform 3 sets of 10-12 repetitions.",
+                "Calf Raises: Engages the calves. Perform 3 sets of 12-15 repetitions."
+    ],
+    "Cool Down":[
+        "Finish with static stretches for the legs, focusing on the quadriceps, hamstrings, and calves."
+    ]
+},
+"Female-leg-build_muscle-Home":{
+    "Workout Location":"Home",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"-10 minutes of light cardio",
+    "Workout":["Resistance Band Leg Press (if available at home): Perform 3 sets of 12-15 repetitions",
+                "Bodyweight Squats: Perform 3 sets of 10-12 lunges per leg.",
+                "Dumbbell Lunges: Perform 3 sets of 12-15 repetitions.",
+                "Glute Bridges: 3 sets of 12 reps",
+                "Calf Raises:3 sets of 12 reps"
+    ],
+    "Cool Down":[
+        "Finish with static stretches for the legs, focusing on the quadriceps, hamstrings, and calves."
+    ]
+},
+"Male-arm-loss_weight-Gym":{
+
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio on a stationary bike or treadmill",
+    "Workout":[
+        "Barbell Squats - 3 sets of 12 reps",
+        "Dumbbell Lunges - 3 sets of 12 reps",
+        "Barbell Bench Press - 3 sets of 12 reps",
+        "Seated Cable Rows - 3 sets of 12 reps",
+        "Dumbbell Shoulder Press - 3 sets of 12 reps",
+        "Planks - 3 sets, holding for 30-60 seconds each",
+        "Crunches - 3 sets of 12 reps"
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio on a stationary bike or treadmill"
+     
+    ]
+   
+},
+"Male-arm-loss_weight-Home":{
+    "Workout Location":"Home",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio (jumping jacks, high knees, or jogging in place)",
+    "Workout":[
+        "Push-ups - 3 sets of 12 reps",
+        "Tricep Dips (using a sturdy chair or bench) - 3 sets of 12 reps",
+        "Dumbbell Bicep Curls - 3 sets of 12 reps (use household objects if you don't have dumbbells)",
+        "Diamond Push-ups - 3 sets of 12 reps",
+        "Plank Shoulder Taps - 3 sets of 12 reps (each side)",
+       " Dumbbell Bent Over Rows - 3 sets of 12 reps (use household objects if you don't have dumbbells)",
+        "Chair Tricep Extensions - 3 sets of 12 reps",
+        "Dumbbell Hammer Curls - 3 sets of 12 reps (use household objects if you don't have dumbbells)"
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio (jumping jacks, marching in place, or brisk walking)",
+"Stretching of all major muscle groups (arm stretches, shoulder stretches, tricep stretches, etc.)"
+     
+    ]
+},
+"Male-chest-loss_weight-Gym":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio (treadmill, stationary bike) to get your heart rate up and dynamic stretches for the chest and upper body.",
+    "Workout":[
+                "Chest Press Machine: Use the chest press machine to target the chest muscles. Perform 3 sets of 10-12 repetitions.",
+                "Dumbbell Flyes: Perform 3 sets of 10-12 repetitions.",
+                "Push-Ups: Standard Push-Ups: Perform 3 sets of 8-10 repetitions",
+                "Incline Bench Press: Use an incline bench to target the upper chest. Perform 3 sets of 10-12 repetitions."
+    ],
+    "Cool Down":[
+        "Finish with static stretches for the chest and upper body."
+     
+    ]
+   
+},
+"Male-chest-loss_weight-Home":{
+    "Workout Location":"Home",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio (jumping jacks, high knees, or jogging in place)",
+    "Workout":[
+        "Push-Ups - 3 sets of 12 reps",
+        "Dips (using a sturdy chair or bench) - 3 sets of 12 reps",
+       " Decline Push-Ups - 3 sets of 12 reps",
+        "Diamond Push-Ups - 3 sets of 12 reps",
+        "Chest Squeeze (using a resistance band or towel) - 3 sets of 12 reps",
+        "Dumbbell Flyes (use household objects if you don't have dumbbells) - 3 sets of 12 reps",
+        "Incline Push-Ups - 3 sets of 12 reps",
+        "Wall Push-Ups - 3 sets of 12 reps"
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio (jumping jacks, marching in place, or brisk walking)"
+     
+    ]
+   
+},
+"Male-abs-loss_weight-Gym":{
+    "Workout Location":"Gym",
+    "Duration":" 4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio on a stationary bike or treadmill",
+    "Workout":[
+        "Bicycle Crunches - 3 sets of 12 reps",
+        "Russian Twists (with or without a medicine ball) - 3 sets of 12 reps",
+        "Plank - 3 sets, holding for 30-60 seconds each",
+        "Leg Raises - 3 sets of 12 reps",
+        "Cable Crunches - 3 sets of 12 reps (if available)",
+        "Mountain Climbers - 3 sets of 30 seconds",
+        "Hanging Leg Raises - 3 sets of 12 reps (if equipment is available)",
+        "Reverse Crunches - 3 sets of 12 reps"
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio on a stationary bike or treadmill",
+        "Stretching of all major muscle groups, including your abs and lower back"
+     
+    ]
+   
+},
+"Male-abs-loss_weight-Home":{
+    "Workout Location":"Home",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio (jumping jacks, high knees, or jogging in place)",
+    "Workout":[
+        "Bicycle Crunches - 3 sets of 12 reps",
+        "Russian Twists (use a household object or a medicine ball) - 3 sets of 12 reps",
+        "Plank - 3 sets, holding for 30-60 seconds each",
+        "Leg Raises - 3 sets of 12 reps",
+        "Mountain Climbers - 3 sets of 30 seconds",
+        "Reverse Crunches - 3 sets of 12 reps",
+        "Toe Touches - 3 sets of 12 reps",
+        "Plank Hip Dips - 3 sets of 12 reps (each side)"
+    ],
+    "Cool Down":[
+
+        "5-10 minutes of light cardio (jumping jacks, marching in place, or brisk walking)"
+     
+    ]
+   
+},
+"Male-leg-loss_weight-Gym":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio on a treadmill",
+    "Workout":[
+        "Barbell Squats - 3 sets of 12 reps",
+        "Leg Press - 3 sets of 12 reps",
+        "Dumbbell Lunges - 3 sets of 12 reps (each leg)",
+        "Leg Extensions - 3 sets of 12 reps",
+        "Romanian Deadlifts - 3 sets of 12 reps",
+        "Standing Calf Raises - 3 sets of 12 reps",
+        "Leg Curl (using a machine) - 3 sets of 12 reps",
+        "Seated Calf Raises - 3 sets of 12 reps"
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio on a treadmill"
+    ]
+   
+},
+"Male-leg-loss_weight-Home":{
+    "Workout Location":"Home",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio (jumping jacks, high knees, or jogging in place)",
+    "Workout":[
+        "Bodyweight Squats - 3 sets of 12 reps",
+        "Lunges - 3 sets of 12 reps (each leg)",
+        "Glute Bridges - 3 sets of 12 reps",
+        "Calf Raises - 3 sets of 12 reps",
+        "Step-Ups (use a sturdy chair or step) - 3 sets of 12 reps (each leg)",
+        "Wall Sits - 3 sets, holding for 30-60 seconds each",
+        "Jumping Squats - 3 sets of 12 reps"
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio (jumping jacks, marching in place, or brisk walking)"
+     
+    ]
+   
+},
+
+"Female-fullbody-build_muscle-Gym":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio on a treadmill",
+    "Workout":[
+            "Barbell Squats - 4 sets of 8-10 reps",
+            "Barbell Bench Press - 4 sets of 8-10 reps",
+            "Bent-Over Barbell Rows - 4 sets of 8-10 reps",
+            "Barbell Deadlifts - 4 sets of 8-10 reps",
+            "Dumbbell Shoulder Press - 4 sets of 8-10 reps",
+            "Dumbbell Bicep Curls - 4 sets of 8-10 reps",
+            "Tricep Dips - 4 sets of 8-10 reps (use dip bars or parallel bars)",
+            "Cable Crunches - 4 sets of 12 reps",
+            "Hanging Leg Raises - 4 sets of 10 reps"
+            ],
+    "Cool Down":[
+        "5-10 minutes of light cardio on a treadmill",
+        "Stretching of all major muscle groups"
+    ]
+
+},
+"Female-fullbody-build_muscle-Home":{
+    "Workout Location":"Home",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio to get your heart rate up and dynamic stretches for the entire body.",
+    "Workout":["Squats: Perform bodyweight squats or add dumbbells (if available at home) for added resistance. Perform 3 sets of 10-12 repetitions.",
+                "Standard Push-Ups: Perform 3 sets of 8-10 repetitions.",
+                "Vertical Push-Ups: 3 sets of 12 reps",
+                "Plank: Hold a plank position on your elbows and toes, engaging your core muscles. Hold for 30-60 seconds per set.",
+                "Bicep Curls: Use dumbbells or any household items with weight. Perform 3 sets of 10-12 repetitions.",
+                "ricep Dips (using sturdy chairs or a low table): Perform 3 sets of 8-10 repetitions. Engages the triceps effectively."
+    ],
+    "Cool Down":[
+        "Finish with static stretches for the entire body."
+    ]
+
+},
+"Female-arm-loss_weight-Gym":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio for upper body",
+    "Workout":["Dumbbell Lunges - 3 sets of 12 reps",
+                "Barbell Bench Press - 3 sets of 12 reps",
+                "Seated Cable Rows - 3 sets of 12 reps",
+                "Lat Pulldowns - 3 sets of 12 reps",
+                "Dumbbell Shoulder Press - 3 sets of 12 reps",
+                "Crunches - 3 sets of 12 reps",
+                "Cable Tricep Pushdowns: Use the cable machine and perform tricep pushdowns with a straight bar or rope handle. Perform 3 sets of 10-12 repetitions."
+    ],
+    "Cool Down":[
+        "Finish with static stretches for the arms and upper body."
+    ]
+
+},
+"Female-arm-loss_weight-Home":{
+
+    "Workout Location":"Home",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio (jumping jacks, marching in place) to get your heart rate up and dynamic stretches for the arms and upper body.",
+    "Workout":["Bodyweight Squats - 3 sets of 12 reps",
+                "Lunges - 3 sets of 12 reps",
+                "Push-Ups - 3 sets of 12 reps",
+                "Standard Push-Ups: Perform 3 sets of 8-10 repetitions.",
+                "Tricep Dips (using a sturdy chair or bench) - 3 sets of 12 reps",
+                "Plank - 3 sets, holding for 30-60 seconds each",
+                "Plank Shoulder Taps - 3 sets of 12 reps (each side)"
+                
+    ],
+    "Cool Down":[
+        "Finish with static stretches for the arms and upper body."
+    ]
+},
+"Female-chest-loss_weight-Gym":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio on a treadmill",
+    "Workout":["Chest Squeeze (using a resistance band or towel) - 3 sets of 12 reps",
+                "Chest Press Machine: Use the chest press machine to target the chest muscles. Perform 3 sets of 10-12 repetitions.",
+                "Barbell Bench Press - 3 sets of 12 reps",
+                "Seated Cable Rows - 3 sets of 12 reps",
+                "Lat Pulldowns - 3 sets of 12 reps",
+                "Dumbbell Shoulder Press - 3 sets of 12 reps",
+                "Planks - 3 sets, holding for 30-60 seconds each",
+                "Crunches - 3 sets of 12 reps"
+    ],
+    "Cool Down":[
+        "Stretching of all major muscle groups"
+    ]
+},
+"Female-chest-loss_weight-Home":{
+   
+    "Workout Location":"Home",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio",
+    "Workout":["Bodyweight Squats - 3 sets of 12 reps",
+                "Lunges - 3 sets of 12 reps",
+                "Push-Ups - 3 sets of 12 reps",
+                "Plank - 3 sets, holding for 30-60 seconds each",
+                "Bicycle Crunches - 3 sets of 12 reps per side"
+                
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio"
+    ]
+
+},
+"Female-abs-loss_weight-Gym":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio to get your heart rate up and dynamic stretches for the core and lower back",
+    "Workout":["Plank: Engages core muscles. Hold for 30-60 seconds per set.",
+                "Leg Raises - 3 sets of 12 reps",
+                "Barbell Squats - 3 sets of 12 reps",
+                "Decline Dumbbell Press: 3 sets of 8-12 reps.",
+                "Dumbbell Bent Over Rows - 3 sets of 12 reps",
+                "Cable Crunches - 4 sets of 12 reps",
+                "Cardiovascular Exercise: Include 20-30 minutes of cardiovascular exercise such as running on the treadmill, cycling, or using the elliptical machine. This will help with weight loss and overall calorie burn."
+    ],
+    "Cool Down":[
+        "Finish with static stretches for the core, lower back, and hip flexors."
+    ]
+},
+"Female-abs-loss_weight-Home":{
+    "Workout Location":"Home",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio (jumping jacks, marching in place) to get your heart rate up and dynamic stretches for the core and lower back.",
+    "Workout":["Standard Plank: Hold for 30-45 seconds, rest for 15 seconds. Repeat for 3 sets.",
+                "Side Plank: Hold for 20-30 seconds on each side, rest for 10 seconds. Repeat for 3 sets.",
+                "Lying Leg Raises: Lie on your back on an exercise mat and raise your legs up towards the ceiling, then lower them back down. Perform 3 sets of 10-12 repetitions.",
+                "Russian Twists (use a household object or a medicine ball) - 3 sets of 12 reps",
+                "Plank with Knee Tucks: Perform 3 sets of 20 repetitions (10 each leg)."
+    ],
+    "Cool Down":[
+        "Finish with static stretches for the core, lower back, and hip flexors."
+    ]
+
+},
+"Female-leg-loss_weight-Gym":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio on a stationary bike or treadmill",
+    "Workout":["Barbell Squats - 3 sets of 12 reps",
+                "Dumbbell Lunges - 3 sets of 12 reps",
+                "Barbell Bench Press - 3 sets of 12 reps",
+                "Leg Curl (using a machine) - 3 sets of 12 reps",
+                "Lat Pulldowns - 3 sets of 12 reps",
+                "Dumbbell Shoulder Press - 3 sets of 12 reps",
+                "Leg Extension Machine: 3 sets of 10-12 repetitions: Isolates the quadriceps.",
+                "Crunches - 3 sets of 12 reps"
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio on a stationary bike or treadmill",
+        "Stretching of all major muscle groups"
+    ]
+
+},
+"Female-leg-loss_weight-Home":{
+    "Workout Location":"Home",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio (such as jumping jacks, jogging in place, or high knees)",
+    "Workout":["Bodyweight Squats - 3 sets of 12 reps",
+                "Reverse Lunges: 3 sets of 10-12 repetitions each leg",
+                "Glute Bridges - 3 sets of 12 reps",
+                "Step-Ups (use a sturdy chair or step) - 3 sets of 12 reps (each leg)",
+                "Calf Raises - 3 sets of 12 reps"
+                
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio (such as jumping jacks, jogging in place, or high knees)"
+    ]
+}
+
+}
+
